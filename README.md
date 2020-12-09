@@ -1,3 +1,5 @@
 # Weather App
 
-Uses API to retrieve weather information from 5 different cities in North Carolina and displays it
+- Displays static weather information about 6 cities in NC
+- Uses table view to display information with ability to focus on individual city
+
